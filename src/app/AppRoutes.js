@@ -9,6 +9,7 @@ function AppRoutes() {
         <div>
             <Routes>
                 <Route path="/" element={<Menu />} />
+                <Route path='/korean' />
             </Routes>
         </div>
 
